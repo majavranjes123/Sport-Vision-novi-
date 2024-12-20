@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+sitemap:https:https://majavranjes123.github.io/Sport-Vision-novi-/sitemap.xml
